@@ -1,6 +1,6 @@
-# ML/AI Code Notebooks
+# Artificial Intelligence Visualisations
 
-A small collection of simple machine learning algorithms implemented in
+A small collection of machine learning algorithms implemented in
 code, with visualisations.
 
 ## Notebooks
@@ -12,9 +12,11 @@ code, with visualisations.
 
 ## Examples
 
+![](./animations/k_means.gif)
+![](./animations/simulated_annealing.gif)
 ![](./animations/epochs.gif)
 ![](./animations/optimal.gif)
 ![](./animations/local_maxima.gif)
 ![](./animations/plateau.gif)
-![](./animations/simulated_annealing.gif)
-![](./animations/k_means.gif)
+![](./images/regression_25_1.png)
+![](./images/classification_10_1.png)
